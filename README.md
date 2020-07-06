@@ -1,6 +1,6 @@
-# COVID19-Italia---Script-Python
-Un piccolo script che fornisce istantaneamente i dati aggiornati sul COVID-19 in Italia
+# COVID19 Python Italy script
+A small script that instantly provides updated data on COVID-19 in Italy
 
-I dati provengono dalla repository GitHub della Protezione Civile e della Presidenza del Consiglio dei Ministri
+The data come from the GitHub repository of Civil Protection and the Presidency of the Council of Ministers:
 https://github.com/pcm-dpc/COVID-19
 
